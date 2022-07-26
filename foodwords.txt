@@ -1,0 +1,7 @@
+# fruits that i like
+apple
+mango
+
+# veggies
+kale
+parsnips
